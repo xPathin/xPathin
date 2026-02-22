@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&random=false&width=750&lines=xPathin+%40+arch+~+%24+whoami;Patrick+Fischer+—+Serial+Entrepreneur;Co-Founder+%40+Ensombl+%7C+Bali;Rust+%7C+Go+%7C+TypeScript+%7C+C%23;btw+i+use+arch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&random=false&width=750&lines=xPathin+%40+arch+~+%24+whoami;Patrick+Fischer+%E2%80%94+Serial+Entrepreneur;Co-Founder+%40+Ensombl+%7C+Bali;Rust+%7C+Go+%7C+TypeScript+%7C+C%23;btw+i+use+arch" alt="Typing SVG" />
 
 </div>
 
@@ -32,17 +32,24 @@ Currently at **[Ensombl](https://ensombl.io)** — building **[Certless](https:/
 
 ### Stack
 
-<div>
+<div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=flat-square&logo=traefikproxy&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)
-![GTK4](https://img.shields.io/badge/GTK4-%237FE719.svg?style=flat-square&logo=gtk&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-%23FFBC00.svg?style=flat-square&logo=wayland&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)
 
 </div>
 
@@ -59,13 +66,6 @@ Currently at **[Ensombl](https://ensombl.io)** — building **[Certless](https:/
 ---
 
 ### Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xPathin&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPathin&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true" height="170" />
-
-</div>
 
 <div align="center">
 
