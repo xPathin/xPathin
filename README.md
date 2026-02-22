@@ -6,10 +6,10 @@
 
 <br>
 
-**Patrick Fischer**, serial entrepreneur and software engineer building developer tooling from Bali.
+**Patrick Fischer**, serial entrepreneur and software engineer building trust infrastructure.
 
 15+ years across blockchain, smart contracts, backend systems, .NET, TypeScript, and bot development.
-Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
+Currently co-founding **[Ensombl](https://ensombl.io)**.
 
 - Co-Founder @ **Ensombl Pte. Ltd.**, Singapore
 - Kuta, Bali, Indonesia
@@ -49,18 +49,6 @@ Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xPathin&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D35320" />
 
 </div>
-
-<br>
-
-<h3 align="center">Stats</h3>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xPathin&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<br>
 
 <div align="center">
   <sub>building on arch linux, one commit at a time.</sub>
