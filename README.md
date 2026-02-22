@@ -4,9 +4,7 @@
 
 </div>
 
----
-
-<img align="right" src="https://github.com/xPathin.png" width="145" />
+<br>
 
 **Patrick Fischer**, serial entrepreneur and software engineer building developer tooling from Bali.
 
@@ -17,9 +15,7 @@ Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 - Kuta, Bali, Indonesia
 - 15+ years shipping production software
 
-<br clear="right" />
-
----
+<br>
 
 <h3 align="center">Stack</h3>
 
@@ -44,7 +40,7 @@ Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 
 </div>
 
----
+<br>
 
 <h3 align="center">Activity</h3>
 
@@ -54,7 +50,7 @@ Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 
 </div>
 
----
+<br>
 
 <h3 align="center">Stats</h3>
 
@@ -64,7 +60,7 @@ Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 
 </div>
 
----
+<br>
 
 <div align="center">
   <sub>building on arch linux, one commit at a time.</sub>
