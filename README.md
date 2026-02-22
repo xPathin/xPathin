@@ -40,16 +40,6 @@ Currently co-founding **[Ensombl](https://ensombl.io)**.
 
 </div>
 
-<br>
-
-<h3 align="center">Activity</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xPathin&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D35320" />
-
-</div>
-
 <div align="center">
   <sub>building on arch linux, one commit at a time.</sub>
 </div>
