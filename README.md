@@ -8,7 +8,7 @@
 
 **Patrick Fischer**, serial entrepreneur and software engineer building trust infrastructure.
 
-15+ years across blockchain, smart contracts, backend systems, .NET, TypeScript, and bot development.
+15+ years shipping production software — backend systems, blockchain, and trust infrastructure.
 Currently co-founding **[Ensombl](https://ensombl.io)**.
 
 - Co-Founder @ **Ensombl Pte. Ltd.**, Singapore
