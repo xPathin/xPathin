@@ -11,7 +11,7 @@
 **Patrick Fischer**, serial entrepreneur and software engineer building developer tooling from Bali.
 
 10+ years across blockchain, smart contracts, backend systems, .NET, TypeScript, and bot development.
-Currently at **[Ensombl](https://ensombl.io)** — building **[Certless](https://certless.io)**.
+Currently at **[Ensombl](https://ensombl.io)**, building trust infrastructure.
 
 - Co-Founder @ **Ensombl Pte. Ltd.**, Singapore
 - Kuta, Bali, Indonesia
