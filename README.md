@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&random=false&width=750&lines=xPathin+%40+arch+~+%24+whoami;Patrick+Fischer+%E2%80%94+Serial+Entrepreneur;Co-Founder+%40+Ensombl+%7C+Bali;Rust+%7C+Go+%7C+TypeScript+%7C+C%23;btw+i+use+arch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&random=false&width=750&lines=pathin%40arch+~+%24+whoami;Patrick+Fischer+%7C+Serial+Entrepreneur;Co-Founder+%40+Ensombl;Rust+%7C+Go+%7C+TypeScript+%7C+C%23;btw+i+use+arch" alt="Typing SVG" />
 
 </div>
 
@@ -8,23 +8,14 @@
 
 <img align="right" src="https://github.com/xPathin.png" width="145" />
 
-```
-┌─[xPathin@arch]─[~]
-└──╼ $ neofetch
+**Patrick Fischer**, serial entrepreneur and software engineer building developer tooling from Bali.
 
-  OS:       Arch Linux  (btw)
-  Shell:    zsh
-  Company:  Ensombl Pte. Ltd.
-  Role:     Co-Founder / Senior SWE
-  Location: Kuta, Bali, Indonesia
-  Stack:    Rust · Go · TS · C#
-  Uptime:   10+ years
-  Mode:     Founder
-```
-
-Software engineer and serial entrepreneur building developer tooling from Bali.
-10+ years across blockchain, smart contracts, backend systems, .NET, and TypeScript.
+10+ years across blockchain, smart contracts, backend systems, .NET, TypeScript, and bot development.
 Currently at **[Ensombl](https://ensombl.io)** — building **[Certless](https://certless.io)**.
+
+- Co-Founder @ **Ensombl Pte. Ltd.**, Singapore
+- Kuta, Bali, Indonesia
+- 10+ years shipping production software
 
 <br clear="right" />
 
